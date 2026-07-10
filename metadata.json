@@ -1,0 +1,6 @@
+{
+  "name": "Billiard Café POS",
+  "description": "A high-fidelity serverless Point of Sale (POS) system for Billiard, Pool, and Snooker Cafés, powered by Supabase. Features real-time game timers, food/item orders, billing, unpaid dues tracking, staff PIN login, and a UPI QR payment display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
